@@ -51,4 +51,5 @@ Converting <code>ip_addresses</code> back into a string with the <code>.join()</
 <p align="center">
 Finally, for the final task of the project, I put all the code used to add to, remove from, and parse the file into a function called <code>update_file()</code>: <br/>
 <img src="https://i.imgur.com/9BzrpGx.png" height="80%" width="80%" alt="Domain Controller VM creation"/>
+<img src="https://imgur.com/FKy41uZ.png" height="80%" width="80%" alt="Domain Controller VM creation"/>
 <br />
